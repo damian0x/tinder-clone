@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99e2febe-7e9c-4957-99bd-feac70395f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LikedPerson.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Lonely.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LikedPerson.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LikedPerson.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Logo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Lonely.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Lonely.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/actions/Dislike.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/actions/Dislike.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/actions/Like.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/actions/Like.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/actions/Rewind.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/actions/Rewind.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/actions/Superlike.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/actions/Superlike.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/components/actions" />
     </key>
   </component>

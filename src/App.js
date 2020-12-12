@@ -21,15 +21,16 @@ function App() {
     const newDislikedUsers = [...dislikedUsers];
 
     switch (action) {
-      case 'ADD_TO_LIKED_USER':
+      case 'ADD_TO_LIKED_USERS':
         if(!people[activeUser].likedUsers.includes(userId)) {
           newPeople[activeUser].likedUsers.push(userId);
+          newLikedUsers.push(data[userId])
 
           setLikedUsers(newLikedUsers);
           setPeople(removedPersonFromDataSrc(people, userId));
         }
         break;
-      case 'ADD_TO_DISLIKED_USER':
+      case 'ADD_TO_DISLIKED_USERS':
         if(!people[activeUser].dislikedUsers.includes(userId)) {
           newPeople[activeUser].dislikedUsers.push(userId);
           newDislikedUsers.push(data[userId])
